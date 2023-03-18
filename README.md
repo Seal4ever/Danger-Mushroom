@@ -1,5 +1,5 @@
 # Danger Mushroom
-A fork of cicuta_virosa that working on ios 16.1.2 Seal4ever.
+A fork of cicuta_virosa that working on ios 16.1.2 by Seal4ever.
 
 # Current state
 - Exploit works only on A13+ devices :(
